@@ -1,0 +1,28 @@
+name: TRAINING
+favicon: null
+layout_spectrum: 0.3071567106526345
+typography_spectrum: 0.6503866745624691
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.39470431860536337
+  lightness: 0.517930627334863
+  saturation: 0.2280881549231708
+  rhythmicContrast: 0.7245390473399311
+purpose: []
